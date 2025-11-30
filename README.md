@@ -16,3 +16,6 @@ Added a section allowing the user to select how many people to split the bill be
 
 https://github.com/user-attachments/assets/498bdd10-c1d5-4c6b-8d83-aeb202fcafc7
 
+The code's structure is quite simple, everything is displayed on MainActivity with three classes. One to calculate tip, tax, and total, one to update the tip's rating, and one to calculate price per person. 
+
+The next step would probably adding addition activites so clean up the UI a little bit allowing for extra design opportunities like a shopping calculator. Right now everything is currently on the MainActivity which makes it a little messy.
